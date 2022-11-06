@@ -1,10 +1,10 @@
-![MasterHead](https://i.ibb.co/stbWJST/final-banner.jpg)
-<!-- <h1 align="center">Hi 👋There, I'm <img src="https://img.shields.io/badge/Developer-Md Rana%20Hossain-blue" height="30"/></h1> -->
-<h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
+![MasterHead]()
+<!-- <h1 align="center">Hi 👋There, I'm ></h1> -->
+<h3 align="center">Web Development Is My Passion. I Love To coding, Learn to New Skills To Become Myself A Pro Developer</h3>
 
 <p align="center"> 
   <b>Profile views</b><br>
-<!--   <img src="https://profile-counter.glitch.me/rana135/count.svg" /> -->
+<!--    -->
 </p>
 
 <div align="center">
@@ -17,17 +17,17 @@
 <img align="right" height="240px" width="280px" src="https://i.ibb.co/TbVtR0M/front-end-development.gif" alt="Right Img" />
 
 
-- 🔭 I’m currently working on [Hexa Tech](https://hexa-tech.web.app/)
+- 🔭 I’m currently working on [POYSHA-Pay](https://poysha-pay.web.app/)
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Web Solutions**
 
-- 📫 How to reach me *rana286090@gmail.com*
+- 📫 How to reach me *mehedimugdho72@gmail.com*
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://portfolio-ba32a.web.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio]()
 
-- 📄 My past work experience at [Resume](https://drive.google.com/file/d/1790olOGfoIM7U-3vXEDmkKU7g7_PRDQk/view?usp=sharing)
+- 📄 My past work experience at [Resume]()
 
 ## 🌐 Socials:
 
@@ -51,12 +51,12 @@
 </p> 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rana135)  
+![GitHub Activity Graph]()  
 
-![GitHub metrics](https://metrics.lecoq.io/rana135)  
+![GitHub metrics](https://metrics.lecoq.io/mehedimugdho72)  
 
 ## 🏆 GitHub Trophies:
-<p align="center"> <a href="https://github.com/rana135/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana135&row=1&column=6&theme=onedark" alt="rana" /></a> </p>
+<p align="center"> <a href="https://github.com/mehedimugdho72/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedimugdho72" alt="mehedimugdho72" /></a> </p>
 
 ## ✍️ Random Dev Quote:
 <div align="center">
